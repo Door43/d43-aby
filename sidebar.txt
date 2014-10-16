@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aby:home|Door43 (aby)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aby|d43-aby repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aby/archive/master.zip|d43-aby.zip]]
+
+**Recent Changes**
+{{changes>ns = aby}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aby|Ethnologue data]]
+
